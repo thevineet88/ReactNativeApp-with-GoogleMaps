@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a34c39292ad213666c043a8c96f6479\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\7cf9fb0686330b8d2b617f88b8028005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-10.0.1.aar\e44d0f118a39fe43e48ee7e66def26a9\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\ec43662994151a0871168482dc8a4330\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\1d5623d2e14789583670b769f9ce46f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\3964c412d439e638a4efa8de70d261a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5038b333386df2aa52c0a6b1042bae34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\98169331d515c5d7eee078c32a284f60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\4d27a608b74f5278f14c2937aea0226e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\15282761e67fb0decaf90b3922aa996a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\014e9e7f0f651870c0c95b01f13d5b82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\3aebd39c152e3c41ae61011713b55488\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c57137e4140b0f7ae80c5cb6579ceb3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\946e7e7927587d5adcdcaba812cb37ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4ba0b057131c80d72d6c2785a2f2115a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\ff848fa413afed370aa59636e8013999\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\40addf027e95a27ca87a8567876158f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\b249a91402c01306d5b7147da57e19f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\55a82c41510c6aeb8b79f757d6bc2f25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7319cd40c1b18f3e1a05867b4d469eaf\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\574bb4b1c7ade7ed2fb90637a983b1ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\48852a2b2b4929bd345a8ddd81803947\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\14610cad3a1210f1dcd81a16c67e3198\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f86a3cc47d838059f838d66403edb7fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\ec3ae3f340a29e6fb75db75a33b87864\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\d41563085240a8309754a2f639831178\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\be739444a6cf99536d004c4923860306\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\f05447a585a94c1ed5c0e1c1e7d07529\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f00ae74b159beb85ccd0bc40cf56769f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\663c10dd790e36bcd141a80e8739a653\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\64b9388c91768edf9feea146cd375975\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\16e023c38c9355a42bc9ced7afe998a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\d1f10aad5c93718f129cd28296530f70\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\8b8d981f2fbfd37d232070be77d63854\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\34e0d64f78227d1a7e301214ed92d8dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\fd45af3b5c728dbd6ae3ce8368a058ed\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\68a2004b0c05a5f5e8f6ffc7a4bfa593\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a34c39292ad213666c043a8c96f6479\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a34c39292ad213666c043a8c96f6479\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-10.0.1.aar\e44d0f118a39fe43e48ee7e66def26a9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-10.0.1.aar\e44d0f118a39fe43e48ee7e66def26a9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\55a82c41510c6aeb8b79f757d6bc2f25\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\55a82c41510c6aeb8b79f757d6bc2f25\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7319cd40c1b18f3e1a05867b4d469eaf\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7319cd40c1b18f3e1a05867b4d469eaf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\fd45af3b5c728dbd6ae3ce8368a058ed\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\fd45af3b5c728dbd6ae3ce8368a058ed\AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\55a82c41510c6aeb8b79f757d6bc2f25\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:11:7-52
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:12:7-34
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:8:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:14:7-16:67
+	android:value
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:16:9-64
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:15:9-54
+activity#com.nativeapp.MainActivity
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a34c39292ad213666c043a8c96f6479\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a34c39292ad213666c043a8c96f6479\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\7cf9fb0686330b8d2b617f88b8028005\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\7cf9fb0686330b8d2b617f88b8028005\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-10.0.1.aar\e44d0f118a39fe43e48ee7e66def26a9\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-10.0.1.aar\e44d0f118a39fe43e48ee7e66def26a9\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:17:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\ec43662994151a0871168482dc8a4330\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\ec43662994151a0871168482dc8a4330\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\1d5623d2e14789583670b769f9ce46f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\1d5623d2e14789583670b769f9ce46f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\3964c412d439e638a4efa8de70d261a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\3964c412d439e638a4efa8de70d261a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5038b333386df2aa52c0a6b1042bae34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\5038b333386df2aa52c0a6b1042bae34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\98169331d515c5d7eee078c32a284f60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\98169331d515c5d7eee078c32a284f60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\4d27a608b74f5278f14c2937aea0226e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\4d27a608b74f5278f14c2937aea0226e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\15282761e67fb0decaf90b3922aa996a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\15282761e67fb0decaf90b3922aa996a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\014e9e7f0f651870c0c95b01f13d5b82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\014e9e7f0f651870c0c95b01f13d5b82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\3aebd39c152e3c41ae61011713b55488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\3aebd39c152e3c41ae61011713b55488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c57137e4140b0f7ae80c5cb6579ceb3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c57137e4140b0f7ae80c5cb6579ceb3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\946e7e7927587d5adcdcaba812cb37ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\946e7e7927587d5adcdcaba812cb37ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4ba0b057131c80d72d6c2785a2f2115a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4ba0b057131c80d72d6c2785a2f2115a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\ff848fa413afed370aa59636e8013999\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\ff848fa413afed370aa59636e8013999\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\40addf027e95a27ca87a8567876158f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\40addf027e95a27ca87a8567876158f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\b249a91402c01306d5b7147da57e19f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\b249a91402c01306d5b7147da57e19f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\55a82c41510c6aeb8b79f757d6bc2f25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\55a82c41510c6aeb8b79f757d6bc2f25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7319cd40c1b18f3e1a05867b4d469eaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\7319cd40c1b18f3e1a05867b4d469eaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\574bb4b1c7ade7ed2fb90637a983b1ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\574bb4b1c7ade7ed2fb90637a983b1ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\48852a2b2b4929bd345a8ddd81803947\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\48852a2b2b4929bd345a8ddd81803947\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\14610cad3a1210f1dcd81a16c67e3198\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\14610cad3a1210f1dcd81a16c67e3198\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f86a3cc47d838059f838d66403edb7fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f86a3cc47d838059f838d66403edb7fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\ec3ae3f340a29e6fb75db75a33b87864\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\ec3ae3f340a29e6fb75db75a33b87864\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\d41563085240a8309754a2f639831178\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\d41563085240a8309754a2f639831178\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\be739444a6cf99536d004c4923860306\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\be739444a6cf99536d004c4923860306\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\f05447a585a94c1ed5c0e1c1e7d07529\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\f05447a585a94c1ed5c0e1c1e7d07529\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f00ae74b159beb85ccd0bc40cf56769f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\f00ae74b159beb85ccd0bc40cf56769f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\663c10dd790e36bcd141a80e8739a653\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\663c10dd790e36bcd141a80e8739a653\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\64b9388c91768edf9feea146cd375975\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\64b9388c91768edf9feea146cd375975\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\16e023c38c9355a42bc9ced7afe998a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\16e023c38c9355a42bc9ced7afe998a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\d1f10aad5c93718f129cd28296530f70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\d1f10aad5c93718f129cd28296530f70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\8b8d981f2fbfd37d232070be77d63854\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\8b8d981f2fbfd37d232070be77d63854\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\34e0d64f78227d1a7e301214ed92d8dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\34e0d64f78227d1a7e301214ed92d8dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\fd45af3b5c728dbd6ae3ce8368a058ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\fd45af3b5c728dbd6ae3ce8368a058ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\68a2004b0c05a5f5e8f6ffc7a4bfa593\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\68a2004b0c05a5f5e8f6ffc7a4bfa593\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ReactNative\my-project\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\ReactNative\my-project\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] D:\ReactNative\my-project\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-10.0.1.aar\05960c941cb0e4705810e0bbef81a3b2\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-10.0.1.aar\57157f31f2360b30e0a3a654ed8fc3dd\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\ecdd21ade896f8b27b439dbb4ebd8f7b\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Manoj\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-10.0.1.aar\241d45cd2622a9238721bacb6af468d3\AndroidManifest.xml:20:20-65
